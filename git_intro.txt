@@ -1,10 +1,12 @@
+This is a new title
+
 Git Introduction
 
 Great Git!
 
 Git was software for tracking changes in any set of files,
 usually used for coordinating work among programmers collaboratively
-developing source code during software development. Its goals include
+developing source code during software development. Their goals include
 speed, data integrity, and support for distributed, non-linear workflows.
 
 Git was originally authored by Linus Torvalds in 2005 for development of
