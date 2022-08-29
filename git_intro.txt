@@ -16,5 +16,5 @@ is a full-fledged repository with complete history and full
 version-tracking abilities, independent of network access or a central
 server. (Excerpted from Wikipedia)
 
-Patrick Pang
-29 Aug 2022
+Dr. Patrick Pang
+1 Sept 2022
